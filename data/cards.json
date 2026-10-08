@@ -1,0 +1,74 @@
+[
+    {
+        "image": "assets/sdvl1.jpg",
+        "name": "shadowvanilla"
+    },
+    {
+        "image": "assets/sdvl2.jpg",
+        "name": "shadowvanilla"
+    },
+    {
+        "image": "assets/slkn1.jpg",
+        "name": "slimeknight"
+    },
+    {
+        "image": "assets/slkn2.jpg",
+        "name": "slimeknight"
+    },
+    {
+        "image": "assets/rdvc1.jpg",
+        "name": "rodyvincent"
+    },
+    {
+        "image": "assets/rdvc2.jpg",
+        "name": "rodyvincent"
+    },
+    {
+        "image": "assets/kobd1.jpg",
+        "name": "knockoutbreakdown"
+    },
+    {
+        "image": "assets/kobd2.jpg",
+        "name": "knockoutbreakdown"
+    },
+    {
+        "image": "assets/skst1.jpg",
+        "name": "skystar"
+    },
+    {
+        "image": "assets/skst2.jpg",
+        "name": "skystar"
+    },
+    {
+        "image": "assets/cyta1.jpg",
+        "name": "cyclonustailgate"
+    },
+    {
+        "image": "assets/cyta2.jpg",
+        "name": "cyclonustailgate"
+    },
+    {
+        "image": "assets/spdp1.jpg",
+        "name": "spideypool"
+    },
+    {
+        "image": "assets/spdp2.jpg",
+        "name": "spideypool"
+    },
+    {
+        "image": "assets/wawa1.jpg",
+        "name": "wavewave"
+    },
+    {
+        "image": "assets/wawa2.jpg",
+        "name": "wavewave"
+    },
+    {
+        "image": "assets/stp1.jpg",
+        "name": "slaytp"
+    },
+    {
+        "image": "assets/stp2.jpg",
+        "name": "slaytp"
+    }
+]
